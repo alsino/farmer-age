@@ -1,5 +1,5 @@
 export const config = {
-  "mapTitle": "farmer-age-europe", // The title of the map, if more than one word, separate by dash, e.g. "income-europe"
+  "mapTitle": "young-farmers-in-europe", // The title of the map, if more than one word, separate by dash, e.g. "income-europe"
   "vercelURL": "farmer-age.vercel.app", // The url provided when deploying the map on Vercel
   "datasetType": "values", // "values" or "binary"; Does the data set contain numerical values or binary (0/1) values for countries?
   "datasetUnit": "percent", // "fullNumbers" or "percent"; Is the data in percent (0.25 of GDP) or full numbers (25 people)?
