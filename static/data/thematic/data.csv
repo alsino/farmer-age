@@ -1,38 +1,38 @@
-country	id	value
-Albania	AL	null
-Austria	AT	0.222037736
-Belgium	BE	0.101653565
-Bulgaria	BG	0.140440016
-Switzerland	CH	null
-Cyprus	CY	0.032627361
-Czechia	CZ	0.102187029
-Germany	DE	0.146892655
-Denmark	DK	0.065905849
-Estonia	EE	0.15508982
-Greece	EL	0.083276152
-Spain	ES	0.08581829
-Finland	FI	0.088111044
-France	FR	0.156006309
-Croatia	HR	0.105310129
-Hungary	HU	0.126302326
-Ireland	IE	0.085199186
-Iceland	IS	null
-Italy	IT	0.079426731
-Liechtenstein	LI	null
-Lithuania	LT	0.122871208
-Luxembourg	LU	0.152284264
-Latvia	LV	0.095238095
-Montenegro	ME	null
-North Macedonia	MK	null
-Malta	MT	0.070891515
-Netherlands	NL	0.086925287
-Norway	NO	null
-Poland	PL	0.203133196
-Portugal	PT	0.042049579
-Romania	RO	0.074490872
-Serbia	RS	null
-Sweden	SE	0.101048618
-Slovenia	SI	0.091416309
-Slovakia	SK	0.189789556
-United Kingdom	UK	null
-Ukraine	UA	null
+country,id,value
+Albania,AL,null
+Austria,AT,0.22
+Belgium,BE,0.10
+Bulgaria,BG,0.14
+Switzerland,CH,null
+Cyprus,CY,0.03
+Czechia,CZ,0.10
+Germany,DE,0.15
+Denmark,DK,0.07
+Estonia,EE,0.16
+Greece,EL,0.08
+Spain,ES,0.09
+Finland,FI,0.09
+France,FR,0.16
+Croatia,HR,0.11
+Hungary,HU,0.13
+Ireland,IE,0.09
+Iceland,IS,null
+Italy,IT,0.08
+Liechtenstein,LI,null
+Lithuania,LT,0.12
+Luxembourg,LU,0.15
+Latvia,LV,0.10
+Montenegro,ME,null
+North Macedonia,MK,null
+Malta,MT,0.07
+Netherlands,NL,0.09
+Norway,NO,null
+Poland,PL,0.20
+Portugal,PT,0.04
+Romania,RO,0.07
+Serbia,RS,null
+Sweden,SE,0.10
+Slovenia,SI,0.09
+Slovakia,SK,0.19
+United Kingdom,UK,null
+Ukraine,UA,null
